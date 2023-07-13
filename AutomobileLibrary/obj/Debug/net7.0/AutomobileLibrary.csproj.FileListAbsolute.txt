@@ -1,0 +1,15 @@
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\bin\Debug\net7.0\AutomobileLibrary.deps.json
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\bin\Debug\net7.0\AutomobileLibrary.dll
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\bin\Debug\net7.0\AutomobileLibrary.pdb
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.AssemblyInfo.cs
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.dll
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\refint\AutomobileLibrary.dll
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.pdb
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\ref\AutomobileLibrary.dll
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\bin\Debug\net7.0\AutomobileLibrary.runtimeconfig.json
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\obj\Debug\net7.0\AutomobileLibrary.genruntimeconfig.cache
+D:\WorkSpace\C#\Lab3-Automobile Management\AutomobileLibrary\bin\Debug\net7.0\appsettings.json
